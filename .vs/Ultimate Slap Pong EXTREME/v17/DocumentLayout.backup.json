@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ultimate Slap Pong EXTREME\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|d:\\ultimate slap pong extreme\\assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\load.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\title.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\winscreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winscreens.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\p1scorefx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\p1scorefx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\background.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\p1ready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\p1ready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\goui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\guys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\guys.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|D:\\Ultimate Slap Pong EXTREME\\assets\\scripts\\p2ready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF31D19C-9AEF-CAED-5C16-DBFDC421D5D2}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\p2ready.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Load.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Load.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Load.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Load.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Load.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:54:31.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Title.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Title.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Title.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Title.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Title.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T06:48:03.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P1READY.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\P1READY.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\P1READY.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\P1READY.cs",
+              "RelativeToolTip": "Assets\\Scripts\\P1READY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:45:36.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "goUI.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\goUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\goUI.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\goUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\goUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T02:08:33.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P1ScoreFX.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\P1ScoreFX.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\P1ScoreFX.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\P1ScoreFX.cs",
+              "RelativeToolTip": "Assets\\Scripts\\P1ScoreFX.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:58:40.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Guys.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Guys.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Guys.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Guys.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Guys.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:10:07.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "P2READY.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\P2READY.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\P2READY.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\P2READY.cs",
+              "RelativeToolTip": "Assets\\Scripts\\P2READY.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T20:00:22.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Manager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Manager.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Manager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T14:41:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinScreens.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\WinScreens.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WinScreens.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\WinScreens.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WinScreens.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T04:45:56.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Background.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Background.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Background.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Background.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Background.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T15:00:43.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Ball.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Ball.cs",
+              "ToolTip": "D:\\Ultimate Slap Pong EXTREME\\Assets\\Scripts\\Ball.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Ball.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T17:44:35.26Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
